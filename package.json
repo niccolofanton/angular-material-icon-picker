@@ -3,6 +3,7 @@
 	"displayName": "angular-material-icon-picker",
 	"description": "Search angular material icons directly from your favourite editor",
 	"publisher": "niccolofanton",
+	"repository": "https://github.com/niccolofanton/angular-material-icon-picker",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.51.0"
